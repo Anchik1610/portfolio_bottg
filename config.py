@@ -1,0 +1,2 @@
+TOKEN = "7745306870:AAFLY1-FIdGvcIM2lgbbR7GDNwdNaCxduEQ"
+DATABASE = "portfolio.db"
